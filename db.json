@@ -1,19 +1,19 @@
 {
-  cheeses: [
+  "cheeses": [
     {
-      id: 1,
-      name: "Comté 36 months"
+      "id": 1,
+      "name": "Comté 36 months"
     },
     {
-      id: 2,
-      name: "Tomme aux fleurs"
+      "id": 2,
+      "name": "Tomme aux fleurs"
     },
     {
-      id: 3,
-      name: "Camembert"
+      "id": 3,
+      "name": "Camembert"
     }
   ],
-  user: {
-    firstName: "Florian"
+  "user": {
+    "firstName": "Florian"
   }
 }
